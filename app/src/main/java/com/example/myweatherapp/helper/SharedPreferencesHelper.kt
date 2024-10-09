@@ -1,4 +1,4 @@
-package com.example.myweatherapp.healper
+package com.example.myweatherapp.helper
 
 import android.content.Context
 import com.google.gson.Gson

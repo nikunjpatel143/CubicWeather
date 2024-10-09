@@ -1,10 +1,8 @@
 package com.example.myweatherapp.repository
 
 import android.content.Context
-import android.util.Log
 import android.widget.Toast
-import androidx.compose.ui.platform.LocalContext
-import com.example.myweatherapp.healper.SharedPreferencesHelper
+import com.example.myweatherapp.helper.SharedPreferencesHelper
 import com.example.myweatherapp.mymodel.CubicWeather
 import com.example.myweatherapp.weaterhAPI.WeatherApi
 import dagger.hilt.android.qualifiers.ApplicationContext
